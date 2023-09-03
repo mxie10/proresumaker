@@ -1,0 +1,25 @@
+.resume-form {
+    text-align: center;
+    margin: 2rem auto;
+    padding: 2rem;
+    border: 1px solid #ccc;
+    max-width: 600px;
+  }
+  
+  .content-input {
+    width: 100%;
+  }
+  
+  .pagination {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 1rem;
+  }
+  
+  .page {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    margin: 0.5rem;
+    flex: 1 0 calc(33.33% - 1rem);
+    box-sizing: border-box;
+  }
